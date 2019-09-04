@@ -2,7 +2,8 @@
 A simple python implement for GBDT.
 
 ## GBDT Introduction
-
+<img src="/img/xgboost_1.jpg" alt="" width="700px" height="800px">
+<img src="/img/xgboost_2.jpg" alt="" width="700px" height="800px">
 
 ## Code
 It's really simple and just used for further understanding the theory of gradient boost machine(GBM). The original paper of GBM is [Greedy Function Approximation A Gradient Boosting Machine](https://statweb.stanford.edu/~jhf/ftp/trebst.pdf). All the implement in my code follow this paper.
